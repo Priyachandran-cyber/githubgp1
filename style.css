@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #fce4ec;
+    padding: 20px;
+    text-align: center;
+}
+.banner {
+    background-color: #f8bbd0;
+    padding: 60px;
+    text-align: center;
+    color: #fff;
+}
+.specialists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+.specialist {
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #eee;
+}
